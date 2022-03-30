@@ -9,13 +9,20 @@ Art Plus Food
 # Description
 
 Art Plus Food is an NFT platform where chefs and food creators can sell, buy and trade their recipes.
-Users can browse recipes and they will be able to check their instructions as well as like and comment.
-Overall, users will be able to:
+Users can browse, recipes, create them and mint them. If you are a creator you can set up a royalty or create a community to support your work.
 
-- browse recipes
-- ask questions or answer them
-- mint NFTs
-- exchange recipes
+Create, sell or collect Chef's recipes. Create Worldwide Cuisine recipes, Breakfasts, Cocktails, Pastry, Bakery, Gastronomy, Chef Clubs Membership, Traditional delicatessen everything in one platform.
+How it works
+Connect your wallet
+Connect using Web 3.0 Technology by clicking on the top right corner button.
+
+Add your Recipes
+Mint your recipe or Membership token directly from your account, add it to a cookbook (collection), and define unlockable content.
+
+Sell your NFTs
+Choose the license, the royalties model, and put your recipes, membership, or products on the marketplace.
+
+
 
 We believe that Art Plus Food will create a more strong relationship between the food creators and consumers.
 
